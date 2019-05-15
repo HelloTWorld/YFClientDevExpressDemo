@@ -15,7 +15,7 @@ namespace YFClientDevExpressDemo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuLoad.MenuMainForm());
+            Application.Run(new dataBaseTest.dataBaseTest());
         }
     }
 }
